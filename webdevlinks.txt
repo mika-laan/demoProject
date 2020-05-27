@@ -1,0 +1,42 @@
++
+This simple file with links to the following:
+
+Becoming a Web Developer
+https://www.youtube.com/watch?v=ASbijZRU2Uo
+youtube.com/eddiejaoude @eddiejaoude
+
+Setting Up Visual Studio Code
+https://www.youtube.com/watch?v=rH1RTwaAeGc
+https://www.youtube.com/watch?v=VrV8mo_Ln0s
+https://www.youtube.com/watch?v=LdF2RcelRg0
+https://www.youtube.com/watch?v=x5GzCohd4eo (indepth video)
+
+Boilerplate
+https://html5.boilerplate.com
+https://www.youtube.com/watch?v=1cpdzG2WU0Q  
+(Angela uses Atom, not VSCode, do not worry continue to use VSCode)
+
+https://www.youtube.com/watch?v=YZAPaXoAo58
+https://www.youtube.com/watch?v=95syXiFkI8A
+https://www.youtube.com/watch?v=j1lkJd0-pi8
+
+Bootstrap4
+https://www.youtube.com/watch?v=ZfRn9VJzdGA (very indepth; start from video from 2min )
+https://www.youtube.com/watch?v=svPDhmXY1Yg
+
+
+Git & Github
+https://www.hostinger.co.uk/tutorials/basic-git-commands
+https://www.youtube.com/watch?v=USjZcfj8yxE
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+https://www.youtube.com/watch?v=nhNq2kIvi9s
+https://desktop.github.com
+https://www.youtube.com/watch?v=XpvA00MRZ0o
+https://www.youtube.com/watch?v=RvnM6EEwp1I
+https://www.youtube.com/watch?v=HkdAHXoRtos
+
+
+these are not definitive, there are many more.
+
+Remember Google.com is your friend.
+YouTube.com has an array of great training videos to support your learning.
